@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Leapmotor Gateway
+    url: https://github.com/helix-git/ha-leapmotor-gateway/issues/new/choose
+    about: Bugs and wishes for the Leapmotor Gateway app.
+  - name: Security vulnerability
+    url: https://github.com/helix-git/ha-leapmotor-gateway/security/advisories/new
+    about: Please report security problems privately, not as a public issue.

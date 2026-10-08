@@ -1,0 +1,3 @@
+[submodule "ha-leapmotor-gateway"]
+	path = ha-leapmotor-gateway
+	url = https://github.com/helix-git/ha-leapmotor-gateway.git
